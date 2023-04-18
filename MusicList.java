@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class Playlist {
+public class MusicList {
     public static void main(String[] args) {
     ArrayList<String> listaParaIlhaDeserta = new ArrayList<String>();
     listaParaIlhaDeserta.add("Musica1");
